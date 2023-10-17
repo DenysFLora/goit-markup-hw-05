@@ -781,7 +781,6 @@ position: relative;
 }
 
 .check-text span {
-    display: flex;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -796,8 +795,7 @@ position: relative;
 }
 
 .check-input:checked + .check-text span {
-    background-color: #4D5AE5;
+    background-color: #404bbf;
     border: none;
-    /*fill: #FFFFFF;
-    border-color: #404BBF;*/
+    fill: #F4F4FD;
 }
