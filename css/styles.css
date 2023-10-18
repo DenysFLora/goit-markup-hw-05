@@ -700,7 +700,7 @@ letter-spacing: 0.04em;
 }
 
 .modal-field {
-    margin-bottom: 24px;
+    margin-bottom: 8px;
 }
 
 .modal-field-comment {
@@ -762,7 +762,11 @@ position: relative;
     pointer-events: auto;
 }
 
-.check-imput {
+.check-input-wrap {
+    margin-bottom: 24px;
+}
+
+.check-input {
 
 }
 
