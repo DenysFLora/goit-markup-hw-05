@@ -775,7 +775,6 @@ position: relative;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    display: flex;
     align-items: center;
 }
 
@@ -785,7 +784,7 @@ position: relative;
 }
 
 .check-text span {
-    /*display: flex;*/
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     width: 16px;
